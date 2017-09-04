@@ -1,0 +1,18 @@
+{
+  "name": "pdemon-profile",
+  "version": "0.1.0",
+  "author": "pdemon",
+  "summary": "A basic set of profiles for my personal environment.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pdemonaco/puppet-module-profile",
+  "project_page": "https://github.com/pdemonaco/puppet-module-profile",
+  "issues_url": "https://github.com/pdemonaco/puppet-module-profile/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
